@@ -1,0 +1,11 @@
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.exe
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.deps.json
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.runtimeconfig.json
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.runtimeconfig.dev.json
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.dll
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.pdb
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.csprojAssemblyReference.cache
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.AssemblyInfoInputs.cache
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.AssemblyInfo.cs
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.dll
+C:\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.1\01-ESTRUTURADOPROGRAMA.pdb
